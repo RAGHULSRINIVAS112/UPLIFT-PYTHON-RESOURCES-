@@ -1,2 +1,3 @@
-# UPLIFT-PYTHON-RESOURCES-
-CODING OF ALL CLASES TAKEN IN UPLIFT
+# UPLIFT-PYTHON-RESOURCES
+coding for all concepts in uplift python
+
